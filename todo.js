@@ -137,3 +137,5 @@ const deleted = async (l) => {
 }
 window.deleted = deleted;
 //  orderBy("timestamp", "desc")
+
+var as = 12;
