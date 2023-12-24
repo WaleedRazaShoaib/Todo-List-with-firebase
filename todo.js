@@ -139,3 +139,4 @@ window.deleted = deleted;
 //  orderBy("timestamp", "desc")
 
 var as = 12;
+console.log(as)
