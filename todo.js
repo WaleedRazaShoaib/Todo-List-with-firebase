@@ -138,5 +138,5 @@ const deleted = async (l) => {
 window.deleted = deleted;
 //  orderBy("timestamp", "desc")
 
-var as = 12;
-console.log(as)
+var u = 100000000000;
+console.log(u)
